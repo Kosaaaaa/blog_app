@@ -334,3 +334,4 @@ blog_app/media/
 .env
 .envs/*
 !.envs/.local/
+.docker-build
