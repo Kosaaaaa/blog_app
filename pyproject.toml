@@ -74,6 +74,7 @@ load-plugins = [
     "pylint_celery",
 ]
 django-settings-module = "config.settings.local"
+ignore = "migrations"
 
 [tool.pylint.FORMAT]
 max-line-length = 119
